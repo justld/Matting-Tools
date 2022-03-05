@@ -5,11 +5,10 @@ A matting tool implemented by C++
 opencv     
 onnxruntime v1.10   
 
-
-
 # Author Information
 
 - [justld](https://github.com/justld)  
-- [simuler](https://github.com/simuler)  
+- [simuler](https://github.com/simuler)
+
    
  
